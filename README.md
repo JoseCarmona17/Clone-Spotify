@@ -1,3 +1,6 @@
+![image](https://github.com/JoseCarmona17/Clone-Spotify/assets/90072739/9704d557-3de5-4a1c-b503-65c28871f97e)
+
+
 # Astro Starter Kit: Basics
 
 ```sh
